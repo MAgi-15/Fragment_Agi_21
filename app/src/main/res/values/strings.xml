@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fragment_Agi_21</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_settings">Fragment Settings</string>
+    <string name="fragment_notification">Fragment Notification</string>
+<!--    <string name="todo">TODO</string>-->
+    <string name="menu_home">Menu Home</string>
+    <string name="luminor_hotel">Luminor Hotel</string>
+    <string name="todo">TODO</string>
+    <string name="luminor_hotel_purwokerto_sebuah_penginapan_yang_sangat_setrategis_berada_di_pusat_kota_purwokerto_berdekatan_dengan_pusat_perbelanjaan_dan_alun_alun_kota_purwokerto_hotel_nyaman_dan_bersih_dengan_beragam_fasilitas_yang_disediakan_guna_menunjang_kenyamanan_menginap_para_tamu_harga_yang_terjangkau_bisa_menjadi_pilihan_akomodasi_perjalanan_anda">Luminor Hotel Purwokerto sebuah penginapan yang sangat setrategis. Berada di pusat Kota Purwokerto, berdekatan dengan pusat perbelanjaan dan alun-alun Kota Purwokerto. Hotel nyaman dan bersih dengan beragam fasilitas yang disediakan guna menunjang kenyamanan menginap para tamu. Harga yang terjangkau bisa menjadi pilihan akomodasi perjalanan Anda.</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="kebijakan_privasi">Kebijakan privasi</string>
+    <string name="profile_saya">Profile Saya</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="akun">Akun</string>
+    <string name="settings">Settings</string>
+    <string name="_3_kamar_berhasil_di_booking_di_luminor_hotel_purwokerto">3 kamar berhasil di booking di Luminor Hotel Purwokerto</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="vocher_promo">Vocher Promo</string>
+    <string name="diskon_30_minimum_pembayaran_1_000_000_dengan_potongan_harga_hingga_200_000_berlaku_di_semua_hotel_di_kota_purwokerto">Diskon 30% minimum pembayaran 1.000.000 dengan potongan harga hingga 200.000, Berlaku di semua hotel di Kota Purwokerto</string>
+    <string name="diskon_30_minimum_pemesaynan_3_kamar_dengan_potongan_harga_hingga_300_000_berlaku_di_semua_hotel_di_kota_purwokerto">Diskon 30% minimum pemesaynan 3 kamar dengan potongan harga hingga 300.000, Berlaku di semua hotel di Kota Purwokerto</string>
+    <string name="status_pemesanan">Status Pemesanan</string>
+    <string name="_07_15">07.15</string>
+    <string name="_13_10">13.10</string>
+</resources>
